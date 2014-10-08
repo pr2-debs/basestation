@@ -1,0 +1,44 @@
+basestation-core-fuerte (0.1.1) stable; urgency=low
+
+  * Incrementing to SVN: r905
+   - r905: Update setup.bash for fuerte.
+
+ -- Austin Hendrix <ahendrix@willowgarage.com>  Thu, 02 Aug 2012 11:48:42 -0700
+
+basestation-core-fuerte (0.1.0) stable; urgency=low
+
+  * Incrementing to SVN: r868
+   - r865: Create basestation-core-fuerte
+   - r866: Rename /etc/ros/electric to fuerte
+   - r867: Update control file to fuerte.
+   - r868: Update setup files to fuerte.
+
+ -- Austin Hendrix <ahendrix@willowgarage.com>  Wed, 09 May 2012 17:58:23 -0700
+
+basestation-core-electric (0.1.1) stable; urgency=low
+
+  * Incrementing to SVN: r824
+   - r824: Update dependencies for basestation-core-electric
+
+ -- Austin Hendrix <ahendrix@willowgarage.com>  Tue, 13 Dec 2011 14:04:05 -0800
+
+basestation-core-electric (0.1.0) stable; urgency=low
+
+  * Bump to v 0.1.0 stable.
+
+ -- Austin Hendrix <ahendrix@willowgarage.com>  Tue, 09 Aug 2011 17:36:03 -0700
+basestation-core-electric (0.0.1) UNRELEASED; urgency=low
+
+  * Incrementing to SVN: r796
+   - r796: Create basestation-core-electric package.
+
+ -- Austin Hendrix <ahendrix@willowgarage.com>  Tue, 09 Aug 2011 17:22:03 -0700
+
+basestation-core-cturtle (0.5.0) stable; urgency=low
+
+  * Incrementing to SVN: r630
+   - r623: Basestaton core cturtle
+   - r630: modifying basestation-core-cturtle
+
+ -- Jeremy Leibs <leibs@willowgarage.com>  Tue, 18 Jan 2011 12:39:57 -0800
+

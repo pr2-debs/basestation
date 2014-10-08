@@ -1,0 +1,13 @@
+Source: basestation-core-unstable
+Section: basestation
+Priority: extra
+Maintainer: Jeremy Leibs <leibs@willowgarage.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: basestation-core-unstable
+Architecture: any
+Depends: python, ros-unstable-pr2
+Description: Provides /etc/ros setup for the basestation on unstable
+Provides: ${diverted-files}
+Conflicts: ${diverted-files}

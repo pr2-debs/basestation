@@ -1,0 +1,8 @@
+This directory contains the ROS configuration for your basestation on unstable.
+
+Files and their uses are listed below:
+
+/etc/ros/unstable/setup.sh
+
+ * Sets up the ROS environment.  This is typically a symlinked to from
+   /etc/ros/setup.sh

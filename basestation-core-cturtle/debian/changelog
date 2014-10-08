@@ -1,0 +1,8 @@
+basestation-core-cturtle (0.5.0) stable; urgency=low
+
+  * Incrementing to SVN: r630
+   - r623: Basestaton core cturtle
+   - r630: modifying basestation-core-cturtle
+
+ -- Jeremy Leibs <leibs@willowgarage.com>  Tue, 18 Jan 2011 12:39:57 -0800
+
