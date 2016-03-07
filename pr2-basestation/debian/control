@@ -9,7 +9,7 @@ Standards-Version: 3.7.2
 Package: pr2-basestation
 Essential: yes
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, pr2-iptables.d, wg-openvpn, dnsmasq, atftpd, thttpd, syslinux, fakeroot, python-svn, debhelper, config-package-dev, cdbs, ia32-sun-java6-bin, pr2-bios-bmc-images, python-pexpect, pr2-repo, ros-repo, chrony, pr2-sendhwlog, apache2, nvidia-current, nvidia-settings, pr2-installer, pr2-repo-basestation, basestation-core-fuerte
+Depends: ${shlibs:Depends}, ${misc:Depends}, pr2-iptables.d, wg-openvpn, dnsmasq, atftpd, thttpd, syslinux, fakeroot, python-svn, debhelper, config-package-dev, cdbs, ia32-sun-java6-bin, python-pexpect, pr2-repo, ros-repo, chrony, pr2-sendhwlog, apache2, nvidia-current, nvidia-settings, pr2-installer, pr2-repo-basestation, basestation-core-fuerte
 Description: Configures a computer to act as a basestation for the PR2
 Provides: ${diverted-files}, pr2-basestation
 Conflicts: ${diverted-files}, apparmor

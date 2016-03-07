@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: pr2-installer
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, dnsmasq, atftpd, thttpd, syslinux, pr2-bios-bmc-images, python-pexpect, apache2, reprepro
+Depends: ${shlibs:Depends}, ${misc:Depends}, dnsmasq, atftpd, thttpd, syslinux, python-pexpect, apache2, reprepro
 Description: Allows the basestation to install the pr2
 Provides: ${diverted-files}, pr2-basestation
 Conflicts: ${diverted-files}, apparmor
